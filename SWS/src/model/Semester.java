@@ -5,8 +5,8 @@ import java.util.List;
 public class Semester {
 
 	int code;
+	String studyProgramName;
 	int ordinalNumber;
-	StudyProgram studyProgram;
 	List<Course> courses;
 	
 }

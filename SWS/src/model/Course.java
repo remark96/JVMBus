@@ -3,8 +3,8 @@ package model;
 public class Course {
 
 	String name;
-	int code; // unique subject number
+	int semesterCode;
+	int professorCode;
 	int ECTS; // ESPB
-	Semester semester;
 
 }
