@@ -1,12 +1,10 @@
 package model;
 
-import java.util.List;
+import java.util.ArrayList;
 
 public class Semester {
-
-	int code;
-	String studyProgramName;
-	int ordinalNumber;
-	List<Course> courses;
+	private int code;
+	private int ordinalNumber;
+	private ArrayList<Course> courses;
 	
 }

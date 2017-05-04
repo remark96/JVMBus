@@ -1,0 +1,10 @@
+# code | ordinal number | list of courses
+
+51 | 1 | Algebra ; Softverski alati u elektroenergetici ; Programski jezici i strukture podataka ; Strani jezik 1 - izborni
+52 | 2 | Matematicka analiza ; Osnovi elektrotehnike ; Aehitektura racunara ; Socioloski aspekti tehnickog razvoja
+53 | 3 | Elektroenergetski sistemi ; Objektno programiranje ; Izborni predmet 1 ; Logicko projektovanje racunarskih sistema 1 ; Metodi optimizacije u elektroenergetici 
+54 | 4 | Operativni sistemi ; Izborni predmet 2 ; Arhitektura distribuiranih sistema u elektroenergetici ; Izborni predmet 3 ; Diskretna matematika
+55 | 5 | Programski prevodioci ; Baze podataka1 ; Izborni predmet 4 ; Modeliranje i simulacija sistema ; Interakcija covek racunar
+56 | 6 | Razvoj elektroenergetskog softvera ; Cloud Computing u elektroenergetskim sistemima ; Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima ; Veb programiranje ; Razvoj viseslojnih aplikacija u elektroenergetskim sistemima
+57 | 7 | Izborni predmet 5 ; Izborni predmet 6 ; Izborni predmet 7 ; Izborni predmet 8 ; Izborni predmet 9
+58 | 8 | Izborni predmet 10 ;  Izborni predmet 11 ; Strucna praksa ; Projekat ; Izrada i odbrana diplomskog rada

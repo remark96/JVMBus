@@ -1,0 +1,44 @@
+# name of chair | list of professors
+
+Katedra za arhitekturu i urbanizam |
+Katedra za teorije i interpretacije prostora u arhitekturi i urbanizmu | 
+Katedra za umetnost primenjenu u arhitekturi, tehnici i dizajnu
+Katedra za elektroenergetiku i primenjeni softverski inzenjering | 
+Katedra za energetsku elektroniku i pretvarace | 
+Katedra za elektroniku | 
+Katedra za telekomunikacije i obradu signala |
+Katedra za elektricna merenja | 
+Katedra za teorijsku elektrotehniku |
+Katedra za graficko inzenjerstvo i dizajn |
+Katedra za konstrukcije |
+Katedra za geotehniku i saobracajnice |
+Katedra za organizaciju i tehnologiju gradjenja |
+Katedra za gradjevinske materijale, procenu stanja i sanaciju konstrukcija |
+Katedra za hidrotehniku i geodeziju
+Katedra za proizvodne sisteme organizaciju i menadzment |
+Katedra za mehatroniku, robotiku i automatizaciju |
+Katedra za informaciono-komunikacione sisteme | 
+Katedra za kvalitet, efektivnost i logistiku
+Katedra za masine alatke, tehnoloske procese, fleksibilne tehnoloske sisteme i procese projektovanja | 
+Katedra za materijale i tehnologije spajanja |
+Katedra za tehnologije oblikovanjem i inzenjerstvo povrsina |
+Katedra za metrologiju, kvalitet, pribore, alate i ekolosko - inzenjerske aspekte |
+Katedra za masinske konstrukcije, transportne sisteme i logistiku | 
+Katedra za motore i vozila |
+Katedra za masinske elemente, teoriju masina i mehanizama i poljoprivredno masinstvo
+Katedra za procesnu tehniku |
+Katedra za toplotnu tehniku |
+Katedra za mehaniku fluida i hidropneumatske sisteme |
+Katedra za tehnicku mehaniku |
+Katedra za matematiku | Katedra za fiziku |
+Katedra za drustvene nauke | 
+Katedra za animaciju u inzenjerstvu |
+Odsek za automatiku, geomatiku i upravljanje sistemima | 
+Odsek za primenjene racunarske nauke i informatiku |
+Odsek za racunarsku tehniku i racunarske komunikacije |
+Katedra za logistiku i intermodalni transport | 
+Katedra za tehnologije transportno-logistickih sistema | 
+Katedra za drumske saobracajne sisteme | 
+Katedra za postanski saobracaj i komunikacije
+Katedra za inzenjerstvo biosistema | 
+Katedra za inzenjerstvo zastite zivotne sredine |

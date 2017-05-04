@@ -1,0 +1,2 @@
+# name of study program | mark | list of semesters
+Primenjeno softversko inzenjerstvo | PR | 51 ; 52 ; 53 ; 54 ; 55 ; 56 ; 57 ; 58

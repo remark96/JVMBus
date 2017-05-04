@@ -5,7 +5,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Random;
 
-import view.MyWindow;
+import controler.Controller;
+import model.Faculty;
+import model.TYPE_OF_USER;
+import view.MainWindow;
 
 public class Main {
 	
@@ -27,7 +30,7 @@ public class Main {
 			String randomSurname = "|||||";
 			int groupOfStudent = 0;
 			
-			pw.print("# identification number | name | surname | index | year of study | number of group\n\n");
+			pw.print("# name of courses | semester code | professor code | ECTS\n\n");
 			
 			for (int i = 0; i < numberOfStudents; i++) {
 				
@@ -66,13 +69,21 @@ public class Main {
 	
 	
 	public static void main(String[] args) {
-		MyWindow myWindow = new MyWindow();
-		myWindow.setVisible(true);
+		Faculty faculty = new Faculty();
+		faculty.addDepartment("Racunarstvo i automatika");
+		faculty.addStudyProgram("Softversko inzenjerstvo i informacione tehnologije", "Racunarstvo i automatika", "SW");
+		faculty.addStudent("3011996100033", "Jovo", "Sunjka", "SW17/2015", 2, 2, "aaa", "sss", TYPE_OF_USER.STUDENT, "Softversko inzenjerstvo i informacione tehnologije");
+		
+		MainWindow mainWindow = new MainWindow(null);
+		Controller controller = new Controller(faculty, mainWindow);
+		mainWindow.setController(controller);
+		
+		mainWindow.setVisible(true);
 		
 		//Example invitation of function creatFileForStudent
 		
-		/*
-		String nameOfFile = "file/studenti.txt";
+		
+		String nameOfFile = "files/professors.txt";
 		String[] names = new String[] {"Dunja", "Vasilije", "Sara", "Strahinja", "Mina", "Lazar", "Lana", "Bogdan", "Lena", "Milos", "Nevena", "Stefan", "Jelena", "Dusan", "Masa", "Aleksandar", "Nadja", "Mihajlo", "Neda", "Danilo", "Mila", "Andrej", "Dragana", "Nemanja", "Marija", "Nikola", "Jovana", "Jovan", "Milica", "Savo", "Selena", "Jovo", "Stasa", "Sergej", "Irena", "Nikola", "Marija", "Marko"};
 		String[] surnames = new String[] {"Radivojevic", "Lukic", "Miletic", "Nikolic", "Ivic", "Mijatovic", "Jelcic", "Topolic", "Mihic", "Popovic", "Lazic", "Marjanovic", "Nedovic", "Bogdanovic", "Teodosic", "Jokic", "Stankovic", "Vranic", "Malesevic", "Peric", "Zimonjic", "Djokovic", "Tipsarevic", "Dabovic", "Preletacevic", "Vucic", "Dacic", "Tadic", "Jankovic", "Jeremic", "Markovic", "Cubrilovic"};
 		String markOfStudyProgram = "PR";
@@ -80,8 +91,8 @@ public class Main {
 		int yearOfStudy = 2;
 		int sizeOfGroup = 15;
 		
-		createFileForStudents(nameOfFile, 180, names, surnames, markOfStudyProgram, yearOfRegistration, yearOfStudy, sizeOfGroup);
-		*/
+		createFileForStudents(nameOfFile, 30, names, surnames, markOfStudyProgram, yearOfRegistration, yearOfStudy, sizeOfGroup);
+		
 	}
 
 }
