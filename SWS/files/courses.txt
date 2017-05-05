@@ -1,3 +1,4 @@
+# Course name|semester code|professor code|ECTS
 Matematicka analiza 1|11|0111970243169|9
 Algebra|11|0111970243169|9
 Programski jezici|11|1902970362296|8
