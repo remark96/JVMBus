@@ -1,1 +1,2 @@
+# study program name|mark|semester codes
 Racunarstvo i automatika|RA|11;12;13;14;15;16;17;18
