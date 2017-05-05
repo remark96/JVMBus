@@ -1,0 +1,37 @@
+Matematicka analiza 1|11|0111970243169|9
+Algebra|11|0111970243169|9
+Programski jezici|11|1902970362296|8
+Engleski 1|11|0503970857975|5
+Fizika|12|0905970935457|9
+OET|12|0905970401176|9
+Arhitektura racunara|12|0905970401176|6
+Engleski 2|12|0503970857975|5
+MIS|13|1501961965567|7
+LPRS|13|2003970595581|8
+Matematicka analiza 2|13|0211970629889|9
+Objektno programiranje|13|2307975527307|6
+Operativni sistemi|14|0905970401176|7
+Sociologija|14|0703973354301|5
+Sistemi automatskog upravljanja|14|0111970883200|7
+SPP 1|14|0502975880417|5
+Verovatnoca|14|0703973354301|6
+Metode optimizacije|15|0905970401176|8
+Baze podataka 1|15|1603970113256|5
+OISISI|15|1312954649714|7
+NANS|15|2803970119606|5
+Programski prevodioci|15|0703973354301|5
+Osnovi racunarske inteligencije|16|1902970362296|5
+Web programiranje|16|0111970883200|5
+Interakcija covek racunar|16|1312954649714|5
+Internet mreze|16|0111970883200|8
+SIMS|16|1312954649714|7
+Projektovanje softvera|17|1501961965567|8
+Soft kompjuting|17|0111970243169|5
+Racunarska grafika|17|0111970243169|8
+Baze podataka 2|17|1104952359498|5
+Internet softverske arhitekture|17|2002970534417|3
+Praksa|17|2307975527307|3
+XML|18|2003970595581|5
+Inzenjering informacionih sistema|18|0211970629889|5
+Sistemi baza podataka|18|0111970883200|5
+Diplomski rad|18|0703973354301|15

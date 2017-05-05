@@ -1,0 +1,8 @@
+11|1|Matematicka analiza 1;Algebra;Programski prevodioci;Engleski 1
+12|2|Fizika;OET;Arhitektura racunara
+13|3|MIS;LPRS;Matematicka analiza 2;Objektno programiranje
+14|4|Operativni sistemi;Sociologija;Sistemi automatskog upravljanja;SPP 1;Verovatnoca
+15|5|Metode optimizacije;Baze podataka 1;OISISI;NANS;Programski prevodioci
+16|6|Osnovi racunarske inteligencije;Web programiranje;Interakcija covek racunar;Internet mreze;SIMS
+17|7|Projektovanje softvera;Soft kompjuting;Racunarska grafika;Baze podataka 2;Internet softverske arhitekture;Praksa
+18|8|XML;Inzenjering informacionih sistema;Sistemi baza podataka;Diplomski rad
