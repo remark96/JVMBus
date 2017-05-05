@@ -1,3 +1,4 @@
+# semester code|ordinal number|list of courses
 11|1|Matematicka analiza 1;Algebra;Programski prevodioci;Engleski 1
 12|2|Fizika;OET;Arhitektura racunara
 13|3|MIS;LPRS;Matematicka analiza 2;Objektno programiranje
