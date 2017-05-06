@@ -31,6 +31,8 @@ public class StudyProgram {
 		for (int i = 0; i < 8; i++) {
 			this.semesters.add(new Semester(numberImportantForSemesterCode*10 + i + 1, i+1));
 		}
+		
+		numberImportantForSemesterCode++;
 	}
 	
 	public String[] getArrayStrings(int i) { return new String[] {"" + i + ".", name, mark, department.getName(), "Click here ..." , "Click here ..."}; }
