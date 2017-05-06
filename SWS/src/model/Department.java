@@ -19,6 +19,8 @@ public class Department {
 		this.studyPrograms = new ArrayList<StudyProgram>();
 		this.chairs = new ArrayList<Chair>();
 	}
+	
+	public String[] getArrayStrings(int i) { return new String[] {"" + i + ".", name, "Click here ..." , "Click here ..."}; }
 
 	public String getName() { return name; }
 	public void setName(String name) { this.name = name; }

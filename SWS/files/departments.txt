@@ -1,15 +1,15 @@
-# name of department | list of study programs | list of chairs
+# name of department
 
-Departman za arhitekturu i urbanizam | Arhitektura ; Scenska arhitektura, tehnika i dizajn | Katedra za arhitekturu i urbanizam ; Katedra za teorije i interpretacije prostora u arhitekturi i urbanizmu ; Katedra za umetnost primenjenu u arhitekturi, tehnici i dizajnu
-Departman za energetiku, elektroniku i telekomunikacije | Energetika, elektronika i telekomunikacije ; Merenje i regulacija ; Primenjeno softversko inzenjerstvo | Katedra za elektroenergetiku i primenjeni softverski inzenjering ; Katedra za energetsku elektroniku i pretvarace ; Katedra za elektroniku ; Katedra za telekomunikacije i obradu signala ; Katedra za elektricna merenja ; Katedra za teorijsku elektrotehniku
-Departman za graficko inzenjerstvo i dizajn | Graficko inzenjerstvo i dizajn | Katedra za graficko inzenjerstvo i dizajn
-Departman za gradjevinarstvo i geodeziju | Geodezija i geomatika ; Gradjevinarstvo ; Upravljanje rizikom od katastrofalnih dogadjaja i pozara | Katedra za konstrukcije ; Katedra za geotehniku i saobracajnice ; Katedra za organizaciju i tehnologiju gradjenja ; Katedra za gradjevinske materijale, procenu stanja i sanaciju konstrukcija ; Katedra za hidrotehniku i geodeziju
-Departman za industrijsko inzenjerstvo i menadzment | Industrijsko inzenjerstvo ; Inzenjerski menadzment ; Inzenjerstvo informacionih sistema ; Mehatronika | Katedra za proizvodne sisteme organizaciju i menadzment ; Katedra za mehatroniku, robotiku i automatizaciju ; Katedra za informaciono-komunikacione sisteme ; Katedra za kvalitet, efektivnost i logistiku
-Departman za proizvodno masinstvo | Proizvodno masinstvo | Katedra za procese obrade skidanjem materijala ; Katedra za masine alatke, tehnoloske procese, fleksibilne tehnoloske sisteme i procese projektovanja ; Katedra za materijale i tehnologije spajanja ; Katedra za tehnologije oblikovanjem i inzenjerstvo povrsina ; Katedra za metrologiju, kvalitet, pribore, alate i ekolosko - inzenjerske aspekte
-Departman za mehanizaciju i konstrukciono masinstvo | Mehanizacija i konstrukciono masinstvo | Katedra za masinske konstrukcije, transportne sisteme i logistiku ; Katedra za motore i vozila ; Katedra za masinske elemente, teoriju masina i mehanizama i poljoprivredno masinstvo
-Departman za energetiku i procesnu tehniku | Ciste energetske tehnologije ; Energetika i procesna tehnika | Katedra za procesnu tehniku ; Katedra za toplotnu tehniku ; Katedra za mehaniku fluida i hidropneumatske sisteme
-Departman za tehnicku mehaniku | Biomedicinsko inzenjerstvo ; Tehnicka mehanika i dizajn u tehnici | Katedra za tehnicku mehaniku
-Departman za opste discipline u tehnici | Animacija u inzenjerstvu | Katedra za matematiku ; Katedra za fiziku ; Katedra za drustvene nauke ; Katedra za animaciju u inzenjerstvu
-Departman za racunarstvo i automatiku | Biomedicinsko inzenjerstvo ; Geodezija i geomatika ; Informacioni inzenjering ; Merenje i regulacija ; Primenjeno softversko inzenjerstvo ; Racunarstvo i automatika ; Softversko inzenjerstvo i informacione tehnologije ; Softversko inzenjerstvo i informacione tehnologije - Loznica | Odsek za automatiku, geomatiku i upravljanje sistemima ; Odsek za primenjene racunarske nauke i informatiku ; Odsek za racunarsku tehniku i racunarske komunikacije
-Departman za saobracaj | Postanski saobracaj i telekomunikacije ; Saobracaj i transport | Katedra za logistiku i intermodalni transport ; Katedra za tehnologije transportno-logistickih sistema ; Katedra za drumske saobracajne sisteme ; Katedra za postanski saobracaj i komunikacije
-Departman za inzenjerstvo zastite zivotne sredine i zastite na radu | Inzenjerstvo zastite zivotne sredine ; Inzenjerstvo zastite na radu ; Ciste energetske tehnologije ; Upravljanje rizikom od katastrofalnih dogadjaja i pozara | Katedra za inzenjerstvo biosistema ; Katedra za inzenjerstvo zastite zivotne sredine
+Departman za arhitekturu i urbanizam
+Departman za energetiku, elektroniku i telekomunikacije
+Departman za graficko inzenjerstvo i dizajn
+Departman za gradjevinarstvo i geodeziju
+Departman za industrijsko inzenjerstvo i menadzment
+Departman za proizvodno masinstvo
+Departman za mehanizaciju i konstrukciono masinstvo
+Departman za energetiku i procesnu tehniku
+Departman za tehnicku mehaniku
+Departman za opste discipline u tehnici
+Departman za racunarstvo i automatiku
+Departman za saobracaj
+Departman za inzenjerstvo zastite zivotne sredine i zastite na radu

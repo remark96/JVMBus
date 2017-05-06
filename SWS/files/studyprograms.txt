@@ -1,2 +1,36 @@
-# name of study program | mark | list of semesters
-Primenjeno softversko inzenjerstvo | PR | 51 ; 52 ; 53 ; 54 ; 55 ; 56 ; 57 ; 58
+# name of study program | mark | name of deprtment
+
+Arhitektura | AR | Departman za arhitekturu i urbanizam
+Scenska arhitektura, tehnika i dizajn | SA | Departman za arhitekturu i urbanizam
+Energetika, elektronika i telekomunikacije | EE | Departman za energetiku, elektroniku i telekomunikacije
+Merenje i regulacija | MR | Departman za energetiku, elektroniku i telekomunikacije
+Primenjeno softversko inzenjerstvo | PS | Departman za energetiku, elektroniku i telekomunikacije
+Graficko inzenjerstvo i dizajn | GI | Departman za graficko inzenjerstvo i dizajn
+Geodezija i geomatika | GG | Departman za gradjevinarstvo i geodeziju
+Gradjevinarstvo | GR | Departman za gradjevinarstvo i geodeziju
+Upravljanje rizikom od katastrofalnih dogadjaja i pozara | UR | Departman za gradjevinarstvo i geodeziju
+Industrijsko inzenjerstvo | IN | Departman za industrijsko inzenjerstvo i menadzment
+Inzenjerski menadzment | IM | Departman za industrijsko inzenjerstvo i menadzment
+Inzenjerstvo informacionih sistema | II | Departman za industrijsko inzenjerstvo i menadzment
+Mehatronika | ME | Departman za industrijsko inzenjerstvo i menadzment
+Proizvodno masinstvo | PM | Departman za proizvodno masinstvo
+Mehanizacija i konstrukciono masinstvo | MK | Departman za mehanizaciju i konstrukciono masinstvo
+Ciste energetske tehnologije | CE | Departman za energetiku i procesnu tehniku
+Energetika i procesna tehnika | EP | Departman za energetiku i procesnu tehniku
+Biomedicinsko inzenjerstvo | BM | Departman za tehnicku mehaniku
+Tehnicka mehanika i dizajn u tehnici | TM |  Departman za tehnicku mehaniku
+Animacija u inzenjerstvu | AI | Departman za opste discipline u tehnici
+Biomedicinsko inzenjerstvo | BI | Departman za racunarstvo i automatiku
+Geodezija i geomatika | GM | Departman za racunarstvo i automatiku
+Informacioni inzenjering | IG | Departman za racunarstvo i automatiku
+Merenje i regulacija | MG | Departman za racunarstvo i automatiku
+Primenjeno softversko inzenjerstvo | PR | Departman za racunarstvo i automatiku
+Racunarstvo i automatika | RA |Departman za racunarstvo i automatiku
+Softversko inzenjerstvo i informacione tehnologije | SW | Departman za racunarstvo i automatiku
+Softversko inzenjerstvo i informacione tehnologije - Loznica | SL | Departman za racunarstvo i automatiku
+Postanski saobracaj i telekomunikacije | PT | Departman za saobracaj
+Saobracaj i transport | ST | Departman za saobracaj
+Inzenjerstvo zastite zivotne sredine | IZ | Departman za inzenjerstvo zastite zivotne sredine i zastite na radu
+Inzenjerstvo zastite na radu | IR | Departman za inzenjerstvo zastite zivotne sredine i zastite na radu
+Ciste energetske tehnologije | CT | Departman za inzenjerstvo zastite zivotne sredine i zastite na radu
+Upravljanje rizikom od katastrofalnih dogadjaja i pozara | UK | Departman za inzenjerstvo zastite zivotne sredine i zastite na radu

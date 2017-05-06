@@ -1,9 +1,10 @@
-package view;
+package controller;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import javax.swing.JFrame;
+import view.DialogWindow;
+import view.MainWindow;
 
 public class LoginActionListener implements ActionListener {
 	private MainWindow frame;
@@ -15,7 +16,7 @@ public class LoginActionListener implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		String[] namesOfFields = {"Username", "Password"};
-		DialogWindow login= new DialogWindow(frame, "Login", namesOfFields, true);
+		DialogWindow login = new DialogWindow(frame, "Login", namesOfFields, true);
 		frame.setLogin(login);
 		login.setVisible(true);
 

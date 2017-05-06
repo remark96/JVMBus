@@ -1,4 +1,4 @@
-package controler;
+package controller;
 
 import java.util.ArrayList;
 
@@ -11,6 +11,8 @@ import model.Student;
 import model.User;
 import view.MainWindow;
 import view.Page;
+import view.PageForAdministrator;
+import view.PageForProfessor;
 import view.PageForStudent;
 import view.TextField;
 
@@ -39,27 +41,33 @@ public class Controller {
 		else {
 			mainWindow.getLogin().setVisible(false);
 			
-			Page page = null;
-			Person person = null;
+			if (!faculty.isFilesLoaded())  faculty.readData("files/departments.txt", "files/studyprograms.txt", "files/chairs.txt", "files/students.txt", "files/professors.txt", "files/courses.txt");
+			// ucitavanje svih podataka (sem users, oni su vec ucitani)
 			
+			
+			Person person = null;
+			Page page = null;
 			switch (user.getTypeOfUser()) {
 				case STUDENT:
 					person = findStudent(user);
-					page = new PageForStudent(mainWindow);
+					page = new PageForStudent(faculty);
 					break;
 					
 				case PROFFESOR:
-					Professor proffesor = findProfessor(user);
+					person = findProfessor(user);
+					page = new PageForProfessor(faculty);
 					break;
 					
 				case ADMINISTRATOR:
-					
+					page = new PageForAdministrator(faculty);
 					break;
 
 				default:
 					break;
 			}
 			
+			mainWindow.setPageForUser(page);
+			mainWindow.putPageForUser();
 			page.fillPage(person);
 			
 			

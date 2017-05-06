@@ -1,14 +1,14 @@
 # name of courses | semester code | professor code | ECTS
 
-Algebra | 51 | 1908996849761 | 1908996849761 | 9
+Algebra | 51 | 1908996849761 | 9
 Softverski alati u elektroenergetici | 51 | 2710996909686 | 4
 Programski jezici i strukture podataka | 51 | 1812996738600 | 5
-Strani jezik 1 - izborni | 51 | 0901996795473 | 
-Matematicka analiza | 51 | 1404996120317
+Strani jezik 1 - izborni | 51 | 0901996795473 | 3
+Matematicka analiza | 51 | 1404996120317 | 9
 Osnovi elektrotehnike | 52 | 2210996563728 | 4
 Arhitektura racunara | 52 | 1912996815480 | 7
 Socioloski aspekti tehnickog razvojava | 52 | 1412996476127 | 5
-Elektroenergetski sistemi | 52 | 1308996672975
+Elektroenergetski sistemi | 52 | 1308996672975 | 7
 Objektno programiranje | 52 | 1208996413885 | 9
 Izborni predmet 1 | 53 | 2712996161184 | 6
 Logicko projektovanje racunarskih sistema 1 | 53 | 0201996855101 | 5

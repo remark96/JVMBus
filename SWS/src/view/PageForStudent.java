@@ -1,14 +1,20 @@
 package view;
 
-import javax.swing.JLabel;
+import java.awt.Menu;
+import java.util.ArrayList;
 
+import javax.swing.JLabel;
+import javax.swing.JMenu;
+
+import model.Faculty;
 import model.Person;
 import model.Student;
 
+@SuppressWarnings("serial")
 public class PageForStudent extends Page {
 	
-	public PageForStudent(MainWindow mainWindow) {
-		super(mainWindow);
+	public PageForStudent(Faculty faculty) {
+		super(faculty);
 	}
 
 	/*@Override
@@ -29,7 +35,7 @@ public class PageForStudent extends Page {
 	@Override
 	public void funcForCenterPanel(Person person) {
 		Student student = (Student) person;
-		String[] items = {"Personal identification number", "Group", "Year of study"};
+		//String[] items = {"Personal identification number", "Group", "Year of study"};
 		
 		centerPanel.add(new JLabel("Personal identification number"));
 		centerPanel.add(new JLabel(student.getPin()));
@@ -41,19 +47,15 @@ public class PageForStudent extends Page {
 
 	@Override
 	public void funcForEastPanel(Person person) {
-		String[] itemsForMenu = {"Osnovni podaci", "Polozeni predmeti", "Nepolozeni predmeti", "Prijava ispita", "Finansijska kartica"};
-		Menu menu;
-		for (int i = 0; i < 5; i++) {
-			menu = new Menu(itemsForMenu[i], vmb, i);
-			menu.addActionListener();
-			vmb.add(menu);
-		}
+		String[] menusStr = {"INDEX", "POLLS", "EXAM REGISTRATION / CANCELLATION", "OTHER SERVICES"};
+		String[][] items = {{"Basic information", "Flow of study", "Exams passed", "Remaining courses (flunk)"},
+							{"Activate polls"},
+							{"Exam registration", "Cancel exam registration", "Financial card"},
+							{"Change your password", "Sign out"}
+						   };
 		
-		eastPanel.revalidate();
-		eastPanel.repaint();
+		putMenuBar(menusStr, items);
 		
 	}
-	
-	
 
 }

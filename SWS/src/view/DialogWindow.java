@@ -13,9 +13,8 @@ import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.JTextField;
 
-import controler.Controller;
+import controller.Controller;
 
 @SuppressWarnings("serial")
 public class DialogWindow extends JDialog {

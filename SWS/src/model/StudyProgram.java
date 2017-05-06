@@ -10,6 +10,8 @@ public class StudyProgram {
 	private ArrayList<Student> students;
 	private ArrayList<Semester> semesters;
 	
+	private static int  numberImportantForSemesterCode= 5;
+	
 	public StudyProgram(String name, String mark, Department department, ArrayList<Student> students, ArrayList<Semester> semesters) {
 		this.name = name;
 		this.mark = mark;
@@ -25,7 +27,13 @@ public class StudyProgram {
 		this.department = deparment;
 		this.students = new ArrayList<Student>();
 		this.semesters = new ArrayList<Semester>();
+		
+		for (int i = 0; i < 8; i++) {
+			this.semesters.add(new Semester(numberImportantForSemesterCode*10 + i + 1, i+1));
+		}
 	}
+	
+	public String[] getArrayStrings(int i) { return new String[] {"" + i + ".", name, mark, department.getName(), "Click here ..." , "Click here ..."}; }
 	
 	public String getName() { return name; }
 	public void setName(String name) { this.name = name; }
@@ -42,7 +50,5 @@ public class StudyProgram {
 	public ArrayList<Semester> getSemesters() { return semesters; }
 	public void setSemesters(ArrayList<Semester> semesters) { this.semesters = semesters; }
 	
-	public boolean equals(String nameOfStudyProgram) {
-		return name.equals(nameOfStudyProgram);
-	}
+	public boolean equals(String mark) { return this.mark.equals(mark); }
 }
