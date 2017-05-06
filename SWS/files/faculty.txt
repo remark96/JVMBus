@@ -1,0 +1,2 @@
+# faculty name|address|phone number
+Faculty of technical sciences|Dositeja Obradovica 6|021/450810
