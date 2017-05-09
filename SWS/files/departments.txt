@@ -1,0 +1,2 @@
+# name of department
+Departman za racunarstvo i automatiku

@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Professor extends User{
 
-	String departmentNames[];
+	String chairName;
 	List<Course> courses;
 	
 }
