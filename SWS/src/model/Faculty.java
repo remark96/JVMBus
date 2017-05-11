@@ -122,13 +122,5 @@ public class Faculty {
 	public void setDepartments(List<Department> departments) {
 		this.departments = departments;
 	}
-
-	public List<User> getUsers() {
-		return users;
-	}
-
-	public void setUsers(List<User> users) {
-		this.users = users;
-	}
 	
 }
