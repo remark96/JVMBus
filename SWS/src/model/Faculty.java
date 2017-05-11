@@ -14,7 +14,7 @@ public class Faculty {
 	private String address;
 	private String phoneNumber;
 	private List<Department> departments = new ArrayList<Department>();
-	public static List<User> users = new ArrayList<User>();
+	private List<User> users = new ArrayList<User>();
 	
 	private Faculty()
 	{
@@ -74,6 +74,12 @@ public class Faculty {
 		}
 		
 		departments = Department.readDepartments();
+		users = readUsers();
+	}
+	
+	public void readUsers()
+	{
+		
 	}
 
 	public boolean addDepartment(Department d)
