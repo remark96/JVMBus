@@ -14,7 +14,7 @@ public class Faculty {
 	private String address;
 	private String phoneNumber;
 	private List<Department> departments = new ArrayList<Department>();
-	private List<User> users = new ArrayList<User>();
+	public static List<User> users = new ArrayList<User>();
 	
 	private Faculty()
 	{
