@@ -8,3 +8,11 @@
 56 | 6 | Razvoj elektroenergetskog softvera ; Cloud Computing u elektroenergetskim sistemima ; Osnove softvera sa kriticnim odzivom u elektroenergetskim sistemima ; Veb programiranje ; Razvoj viseslojnih aplikacija u elektroenergetskim sistemima
 57 | 7 | Izborni predmet 5 ; Izborni predmet 6 ; Izborni predmet 7 ; Izborni predmet 8 ; Izborni predmet 9
 58 | 8 | Izborni predmet 10 ;  Izborni predmet 11 ; Strucna praksa ; Projekat ; Izrada i odbrana diplomskog rada
+sw11 | 1 | Algebra ; Engleski 1 ; Arhitektura racunara ; Osnove programiranja ; Sociologija tehnike
+sw12 | 2 | Objektno-orijentisano programiranje 1 ; Algoritmi i strukture podataka ; Matematicka analiza ; Internet mreze ; Uvod u softversko inzenjerstvo
+sw21 | 3 | Objektno-orijentisano programiranje 2 ; Organizacija podataka ; NANS ; Diskretna matematika ; NPIEA
+sw22 | 4 | SPP ; Operativni sistemi ; Paralelno programiranje ; Baze Podataka ; SIMS
+sw31 | 5 | Statistika ; Web programiranje ; SOK ; SNUS ; ORT-LPRS 
+sw32 | 6 | PIGKUT ; ISA ; Interakcija covek racunar ; Programski prevodioci ; Metodologije razvoja softvera; Izborna pozicija b
+sw41 | 7 | Izborna pozicija c ; Izborna pozicija d ; Izborna pozicija g ; KITS ; Strucna praksa-projekat
+sw42 | 8 | Izborna pozicija e ; Izborna pozicija h ; Izborna pozicija f ; Izborna pozicija t ; Diplomski rad
