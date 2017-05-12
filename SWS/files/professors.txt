@@ -30,3 +30,42 @@
 1102996995851 | Vasilije | Jeremic | 1102996995851 | jeremic | Katedra za masine alatke, tehnoloske procese, fleksibilne tehnoloske sisteme i procese projektovanja
 1512996456627 | Sergej | Malesevic | 1512996456627 | malesevic | Katedra za energetsku elektroniku i pretvarace
 2808996928500 | Stasa | Peric | 2808996928500 | peric | Katedra za motore i vozila
+0409962711811 | Mila | Mihic | 0409962711811 | doros | Katedra za arhitekturu i urbanizam 
+0401920856627 | Stasa | Markovic | 0401920856627 | doros | Katedra za teorije i interpretacije prostora u arhitekturi i urbanizmu 
+2008961888910 | Stasa | Markoski | 2008961888910 | doros | Katedra za umetnost primenjenu u arhitekturi, tehnici i dizajnu 
+0212936055126 | Jovana | Mitar | 0212936055126 | doros | Katedra za elektroenergetiku i primenjeni softverski inzenjering 
+2709944831796 | Stefan | Ziric | 2709944831796 | doros | Katedra za energetsku elektroniku i pretvarace 
+0108964959019 | Marija | Malesevic | 0108964959019 | doros | Katedra za elektroniku 
+1710928580137 | Marko | Pekic | 1710928580137 | doros | Katedra za telekomunikacije i obradu signala 
+2610941134489 | Mihajlo | Ziric | 2610941134489 | doros | Katedra za elektricna merenja 
+0605973590376 | Milos | Martic | 0605973590376 | doros | Katedra za teorijsku elektrotehniku 
+1006993972588 | Neda | Igic | 1006993972588 | doros | Katedra za graficko inzenjerstvo i dizajn 
+2309936703340 | Dragana | Trajkovic | 2309936703340 | doros | Katedra za konstrukcije 
+2912999025662 | Nikola | Sajic | 2912999025662 | doros | Katedra za geotehniku i saobracajnice 
+0612952168168 | Sara | Nenadic | 0612952168168 | doros | Katedra za organizaciju i tehnologiju gradjenja 
+1110913025308 | Sara | Sajic | 1110913025308 | doros | Katedra za gradjevinske materijale, procenu stanja i sanaciju konstrukcija 
+0905908712170 | Petra | Markovic | 0905908712170 | doros | Katedra za hidrotehniku i geodeziju 
+0710901775202 | Dunja | Martic | 0710901775202 | doros | Katedra za proizvodne sisteme organizaciju i menadzment 
+0210942345322 | Neda | Nedovic | 0210942345322 | doros | Katedra za mehatroniku, robotiku i automatizaciju 
+2402922310567 | Nikola | Markovic | 2402922310567 | doros | Katedra za informaciono-komunikacione sisteme 
+0212913053880 | Dusan | Danic | 0212913053880 | doros | Katedra za kvalitet, efektivnost i logistiku 
+1410938540539 | Dusan | Rik | 1410938540539 | doros | Katedra za procese obrade skidanjem materijala 
+1605967923765 | Marija | Peric | 1605967923765 | doros | Katedra za masine alatke, tehnoloske procese, fleksibilne tehnoloske sisteme i procese projektovanja 
+0210982822094 | Dunja | Trajkovic | 0210982822094 | doros | Katedra za materijale i tehnologije spajanja 
+0601918194981 | Nadja | Kokic | 0601918194981 | doros | Katedra za tehnologije oblikovanjem i inzenjerstvo povrsina 
+2201922023579 | Danilo | Vranic | 2201922023579 | doros | Katedra za metrologiju, kvalitet, pribore, alate i ekolosko - inzenjerske aspekte 
+0210901160721 | Lena | Pekic | 0210901160721 | doros | Katedra za masinske konstrukcije, transportne sisteme i logistiku 
+1311924011906 | Lazar | Papic | 1311924011906 | doros | Katedra za motore i vozila 
+2810920915688 | Jovana | Maltic | 2810920915688 | doros | Katedra za masinske elemente, teoriju masina i mehanizama i poljoprivredno masinstvo 
+1405951697121 | Lena | Taric | 1405951697121 | doros | Katedra za procesnu tehniku 
+1112923560051 | Jovana | Markovic | 1112923560051 | doros | Katedra za toplotnu tehniku 
+2011938951327 | Marija | Trajkovic | 2011938951327 | doros | Katedra za mehaniku fluida i hidropneumatske sisteme 
+1810985603695 | Lana | Bogdanovic | 1810985603695 | doros | Katedra za tehnicku mehaniku 
+1112962388935 | Marija | Igic | 1112962388935 | doros | Katedra za matematiku 
+1108956589826 | Jovana | Maltic | 1108956589826 | doros | Katedra za fiziku 
+1001920660399 | Marko | Ivic | 1001920660399 | doros | Katedra za drustvene nauke 
+1808907876730 | Jovana | Stanic | 1808907876730 | doros | Katedra za animaciju u inzenjerstvu 
+2409902070233 | Mina | Lazic | 2409902070233 | doros | Odsek za automatiku, geomatiku i upravljanje sistemima 
+2611973868549 | Savo | Mihic | 2611973868549 | doros | Odsek za primenjene racunarske nauke i informatiku 
+2807992183784 | Masa | Igic | 2807992183784 | doros | Odsek za racunarsku tehniku i racunarske komunikacije 
+
