@@ -38,3 +38,38 @@ Izborni predmet 11 | 57 | 1404996120317 | 5
 Strucna praksa | 57 | 2210996563728 | 8
 Projekat | 58 | 1912996815480 | 10
 Izrada i odbrana diplomskog rada | 58 | 1412996476127 | 12
+ Algebra  | sw11  | 0205555716080  | 9
+ Engleski 1  | sw11  | 1304367979391  | 3
+ Arhitektura racunara  | sw11  | 2812882744652  | 4 
+ Osnove programiranja  | sw11  | 0106166838577  | 9
+ Sociologija tehnike | sw11  | 1510159186387  | 2
+ Objektno-orijentisano programiranje 1  | sw12  | 1412099113941  | 7 
+ Algoritmi i strukture podataka  | sw12  | 0104786752257  | 7 
+ Matematicka analiza  | sw12  | 1712756462039  | 9
+ Internet mreze  | sw12  | 0306184237056  | 4 
+ Uvod u softversko inzenjerstvo | sw12  | 0203305127513  | 5 
+ Objektno-orijentisano programiranje 2  | sw21  | 0710187639823  | 6
+ Organizacija podataka  | sw21  | 1012028191310  | 5 
+ NANS  | sw21  | 0104786752257  | 4
+ Diskretna matematika  | sw21  | 1712756462039  | 7 
+ NPIEA | sw21  | 1308870405444  | 8
+ SPP  | sw22  | 0710187639823  | 6
+ Operativni sistemi  | sw22  | 0212524838960  | 5
+ Paralelno programiranje  | sw22  | 1703652701267  | 4
+ Baze Podataka  | sw22  | 1412099113941  | 7 
+ SIMS | sw22  | 2812882744652  | 8
+ Statistika  | sw31  | 1101670545824  | 6
+ Web programiranje  | sw31  | 1210645759487  | 7 
+ SOK  | sw31  | 1304367979391  | 7
+ SNUS  | sw31  | 0801021397633  | 5 
+ ORT-LPRS  | sw31  | 0305849774110  | 5 
+ PIGKUT  | sw32  | 1304367979391  | 4
+ ISA  | sw32  | 1510159186387  | 5 
+ Interakcija covek racunar  | sw32  | 1810806902979  | 4
+ Programski prevodioci  | sw32  | 1510159186387  | 4 
+ Metodologije razvoja softvera | sw32  | 1703435396685  | 5 
+ Izborna pozicija b | sw32  | 1703652701267  | 8
+ Izborna pozicija c  | sw41  | 2112759399973  | 6
+ Izborna pozicija d  | sw41  | 1810806902979  | 7 
+ Izborna pozicija g  | sw41  | 1712406570582  | 7 
+ KITS  | 41  | 0911906990793  | 6
